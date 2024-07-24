@@ -14,6 +14,7 @@ well, it's the apps that get themes and all that aka: cava, kitty, neovim, kvant
 
 # Credits
 used **[lazyvim](https://github.com/LazyVim/LazyVim)** with neovim and added keybinding. Licence: *[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)*
+Keybinds: **tab** to *select and confirm* the autocomplete option and **delete** to *dismiss* the autocomplete suggestions
 
 color scheme: **[Catppuccin](https://github.com/catppuccin/kde) mocha lavender**. Licence: *[MIT](https://opensource.org/license/mit)*
 
