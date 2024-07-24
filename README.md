@@ -7,7 +7,7 @@
 
 *the **zshrc** file is not included but you can replicate my config with **p10k** and with **zsh-synthax-highlighting***
 
-*the icons are not included but you can download them from the setting app on the icons settings. The icons are **Tela icons purple***
+*the **icons** are not included but you can download them from the setting app on the icons settings. The icons are **Tela icons purple***
 
 # Required packages
 well, it's the apps that get themes and all that aka: cava, kitty, neovim, kvantum
